@@ -1,0 +1,9 @@
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\bin\Debug\netcoreapp3.1\BM7Tutorial.DAL.deps.json
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\bin\Debug\netcoreapp3.1\BM7Tutorial.DAL.dll
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.csprojAssemblyReference.cache
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.AssemblyInfoInputs.cache
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.AssemblyInfo.cs
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\bin\Debug\netcoreapp3.1\BM7Tutorial.DAL.pdb
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.dll
+C:\Users\Khoirul Khuluqi Abdu\source\repos\BM7Tutorial\BM7Tutorial.DAL\obj\Debug\netcoreapp3.1\BM7Tutorial.DAL.pdb
